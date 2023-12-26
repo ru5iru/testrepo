@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/testrepo/static/css/main.dc4d6ff2.css",
+    "main.js": "/testrepo/static/js/main.b25d9f87.js",
+    "static/js/787.be19faf3.chunk.js": "/testrepo/static/js/787.be19faf3.chunk.js",
+    "index.html": "/testrepo/index.html",
+    "main.dc4d6ff2.css.map": "/testrepo/static/css/main.dc4d6ff2.css.map",
+    "main.b25d9f87.js.map": "/testrepo/static/js/main.b25d9f87.js.map",
+    "787.be19faf3.chunk.js.map": "/testrepo/static/js/787.be19faf3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.b25d9f87.js"
+  ]
+}
